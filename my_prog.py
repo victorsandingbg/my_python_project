@@ -1,2 +1,2 @@
 def func(a):
-    pass
+    print("hi there")
