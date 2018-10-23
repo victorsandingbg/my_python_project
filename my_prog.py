@@ -1,2 +1,3 @@
 def func(a):
-    pass
+    print("hi there")
+    print("bye there")
